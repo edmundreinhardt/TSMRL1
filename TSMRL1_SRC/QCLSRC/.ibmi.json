@@ -1,0 +1,52 @@
+{
+	"version":"0.0.1" ,
+	"build":{
+ 			"objlib":"*CURLIB" ,
+			"tgtCcsid":"*JOB"
+	} ,
+	"sourceAttributes":[
+ 			{
+ 				"name":"QCLSRC.FILE" ,
+				"objectType":"*FILE" ,
+				"text":"Standard source file - non indexed" ,
+				"ccsid":500 ,
+				"recordLength":92
+			} ,
+			{
+ 				"name":"ORD100C.CLLE" ,
+				"objectType":"*PGM" ,
+				"text":"Create new order with parameter" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORD100C2.CLLE" ,
+				"objectType":"*PGM" ,
+				"text":"Create new order without parameter" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORD500C.CLLE" ,
+				"objectType":"*PGM" ,
+				"text":"Convert ORD500o spool to pdf" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PAR201.CLLE" ,
+				"objectType":"*MODULE" ,
+				"text":"" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			}
+	]
+}

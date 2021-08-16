@@ -1,0 +1,88 @@
+{
+	"version":"0.0.1" ,
+	"build":{
+ 			"objlib":"*CURLIB" ,
+			"tgtCcsid":"*JOB"
+	} ,
+	"sourceAttributes":[
+ 			{
+ 				"name":"QILESRVSRC.FILE" ,
+				"objectType":"*FILE" ,
+				"text":"" ,
+				"ccsid":37 ,
+				"recordLength":92
+			} ,
+			{
+ 				"name":"FARTICLE.ILESRVPGM" ,
+				"objectType":"*SRVPGM" ,
+				"text":"Function Article" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"FCOUNTRY.ILESRVPGM" ,
+				"objectType":"*SRVPGM" ,
+				"text":"Functions Country" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"FCUSTOMER.ILESRVPGM" ,
+				"objectType":"*SRVPGM" ,
+				"text":"Functions Customer" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"FFAMILLY.ILESRVPGM" ,
+				"objectType":"*SRVPGM" ,
+				"text":"Functions Country" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"FPARAMETER.ILESRVPGM" ,
+				"objectType":"*SRVPGM" ,
+				"text":"Parameters functions" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"FPROVIDER.ILESRVPGM" ,
+				"objectType":"*SRVPGM" ,
+				"text":"Provider Functions" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"FVAT.ILESRVPGM" ,
+				"objectType":"*SRVPGM" ,
+				"text":"Functions VAT" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"LOG.ILESRVPGM" ,
+				"objectType":"*SRVPGM" ,
+				"text":"Log Functions" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			}
+	]
+}

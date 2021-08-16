@@ -1,0 +1,34 @@
+{
+	"version":"0.0.1" ,
+	"build":{
+ 			"objlib":"*CURLIB" ,
+			"tgtCcsid":"*JOB"
+	} ,
+	"sourceAttributes":[
+ 			{
+ 				"name":"QCMDSRC.FILE" ,
+				"objectType":"*FILE" ,
+				"text":"Standard source file - indexed" ,
+				"ccsid":500 ,
+				"recordLength":92
+			} ,
+			{
+ 				"name":"CRTORD.CMD" ,
+				"objectType":"*CMD" ,
+				"text":"" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"CVTSPLPDF.CMD" ,
+				"objectType":"*CMD" ,
+				"text":"" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			}
+	]
+}

@@ -1,0 +1,88 @@
+{
+	"version":"0.0.1" ,
+	"build":{
+ 			"objlib":"*CURLIB" ,
+			"tgtCcsid":"*JOB"
+	} ,
+	"sourceAttributes":[
+ 			{
+ 				"name":"QSQLSRC.FILE" ,
+				"objectType":"*FILE" ,
+				"text":"Standard source file - non indexed" ,
+				"ccsid":297 ,
+				"recordLength":92
+			} ,
+			{
+ 				"name":"ART801.SQLPRC" ,
+				"objectType":"*SQLPRC" ,
+				"text":"" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ARTIINF.TABLE" ,
+				"objectType":"*FILE" ,
+				"text":"Article Informations File" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ARTLSTDAT.VIEW" ,
+				"objectType":"*FILE" ,
+				"text":"ARTLSTDAT" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"CUSSEQ.SQLSEQ" ,
+				"objectType":"*SQLSEQ" ,
+				"text":"Next customer Number" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ISOTODATE.SQLUDF" ,
+				"objectType":"*SQLUDF" ,
+				"text":"Transfrom num ISO to date" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ISOTODATE4.SQLUDF" ,
+				"objectType":"*SQLUDF" ,
+				"text":"Transform num ISO to date, 0 = 01/01/1940" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ORD701.SQLTRG" ,
+				"objectType":"*SQLTRG" ,
+				"text":"" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ORDERCUS.VIEW" ,
+				"objectType":"*FILE" ,
+				"text":"ORDERCUS" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			}
+	]
+}

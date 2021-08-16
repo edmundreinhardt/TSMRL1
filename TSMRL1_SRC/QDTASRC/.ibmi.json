@@ -1,0 +1,25 @@
+{
+	"version":"0.0.1" ,
+	"build":{
+ 			"objlib":"*CURLIB" ,
+			"tgtCcsid":"*JOB"
+	} ,
+	"sourceAttributes":[
+ 			{
+ 				"name":"QDTASRC.FILE" ,
+				"objectType":"*FILE" ,
+				"text":"" ,
+				"ccsid":37 ,
+				"recordLength":92
+			} ,
+			{
+ 				"name":"LASTORDNO.DTAARA" ,
+				"objectType":"*DTAARA" ,
+				"text":"Last customer Order" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"version":"0.0.1" ,
+	"build":{
+ 			"objlib":"*CURLIB" ,
+			"tgtCcsid":"*JOB"
+	} ,
+	"sourceAttributes":[
+ 			{
+ 				"name":"QPNLSRC.FILE" ,
+				"objectType":"*FILE" ,
+				"text":"" ,
+				"ccsid":297 ,
+				"recordLength":92
+			} ,
+			{
+ 				"name":"SAMHELP.PNLGRP" ,
+				"objectType":"*PNLGRP" ,
+				"text":"Help Application Sam" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"SAMMNU.MENU" ,
+				"objectType":"*MENU" ,
+				"text":"Main menu application SAMPLE" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			}
+	]
+}

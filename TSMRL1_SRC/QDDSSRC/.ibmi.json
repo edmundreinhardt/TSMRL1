@@ -1,0 +1,466 @@
+{
+	"version":"0.0.1" ,
+	"build":{
+ 			"objlib":"*CURLIB" ,
+			"tgtCcsid":"*JOB"
+	} ,
+	"sourceAttributes":[
+ 			{
+ 				"name":"QDDSSRC.FILE" ,
+				"objectType":"*FILE" ,
+				"text":"" ,
+				"ccsid":37 ,
+				"recordLength":92
+			} ,
+			{
+ 				"name":"ADDRESS.PF" ,
+				"objectType":"" ,
+				"text":"Customer file" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":""
+				}
+			} ,
+			{
+ 				"name":"ART200D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Work with Article" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ART201D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Work with Article" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ART202D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Work with Article" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ART250D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Display Article" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ART301D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Function Select an article" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ARTICLE.PF" ,
+				"objectType":"*FILE" ,
+				"text":"Article File" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ARTICLE1.LF" ,
+				"objectType":"*FILE" ,
+				"text":"Article File" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ARTICLE2.LF" ,
+				"objectType":"*FILE" ,
+				"text":"Article File" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ARTIPRO1.LF" ,
+				"objectType":"*FILE" ,
+				"text":"Article provided" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ARTIPRO2.LF" ,
+				"objectType":"*FILE" ,
+				"text":"Article provider by price" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ARTIPROV.PF" ,
+				"objectType":"*FILE" ,
+				"text":"Article provided" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"COU200D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Membre ajouté par la commande AADDSRCARC" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"COU301D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Select a country code" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"COUNTR1.LF" ,
+				"objectType":"*FILE" ,
+				"text":"Country file" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"COUNTRY.PF" ,
+				"objectType":"*FILE" ,
+				"text":"Country file" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"CUS200D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Work with customers" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"CUS250D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Display customer" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"CUS301D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Function Select a customer" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"CUSTADRE.PF" ,
+				"objectType":"" ,
+				"text":"Customer file" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":""
+				}
+			} ,
+			{
+ 				"name":"CUSTOME1.LF" ,
+				"objectType":"*FILE" ,
+				"text":"Customer file" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"CUSTOME2.LF" ,
+				"objectType":"*FILE" ,
+				"text":"Customer file" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"CUSTOMER.PF" ,
+				"objectType":"*FILE" ,
+				"text":"Customer file" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"DETORD.PF" ,
+				"objectType":"*FILE" ,
+				"text":"Detail Order File" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"DETORD1.LF" ,
+				"objectType":"*FILE" ,
+				"text":"Detail Order File" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"FAM301D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Select a familly code" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"FAMILL1.LF" ,
+				"objectType":"*FILE" ,
+				"text":"Family file" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"FAMILLY.PF" ,
+				"objectType":"*FILE" ,
+				"text":"Family file" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ORD100D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Create new order" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORD101D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Edit Customer Order" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORD200D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Work with Customer Orders" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORD201D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Work with Customer Orders" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORD202D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Order detail" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORD500O.PRTF" ,
+				"objectType":"*FILE" ,
+				"text":"Customer Order" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORDER.PF" ,
+				"objectType":"*FILE" ,
+				"text":"Order File" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ORDER1.LF" ,
+				"objectType":"*FILE" ,
+				"text":"Order File" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ORDER2.LF" ,
+				"objectType":"*FILE" ,
+				"text":"Order File" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ORDER3.LF" ,
+				"objectType":"*FILE" ,
+				"text":"Order File" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"PAR200D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Work with parameters" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PARAMETER.PF" ,
+				"objectType":"*FILE" ,
+				"text":"" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"PRO200D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Work with Providers" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PRO201D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Work with Providers" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PRO202D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Prepare purchase order" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PRO250D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Display Article" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PRO301D.DSPF" ,
+				"objectType":"*FILE" ,
+				"text":"Function Select a provider" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PROVIDE1.LF" ,
+				"objectType":"*FILE" ,
+				"text":"Provider file" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"PROVIDE2.LF" ,
+				"objectType":"" ,
+				"text":"Provider file" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":""
+				}
+			} ,
+			{
+ 				"name":"PROVIDER.PF" ,
+				"objectType":"*FILE" ,
+				"text":"Provider file" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"SAMREF.PF" ,
+				"objectType":"*FILE" ,
+				"text":"Ref. file" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"VATDEF.PF" ,
+				"objectType":"*FILE" ,
+				"text":"VAT code and rate" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			}
+	]
+}

@@ -1,0 +1,97 @@
+{
+	"version":"0.0.1" ,
+	"build":{
+ 			"objlib":"*CURLIB" ,
+			"tgtCcsid":"*JOB"
+	} ,
+	"sourceAttributes":[
+ 			{
+ 				"name":"QPROTOSRC.FILE" ,
+				"objectType":"*FILE" ,
+				"text":"" ,
+				"ccsid":297 ,
+				"recordLength":92
+			} ,
+			{
+ 				"name":"APICALL.RPGLE" ,
+				"objectType":"" ,
+				"text":"Prototypes for Ibm API" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":""
+				}
+			} ,
+			{
+ 				"name":"ARTICLE.RPGLE" ,
+				"objectType":"" ,
+				"text":"Function Article" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":""
+				}
+			} ,
+			{
+ 				"name":"COUNTRY.RPGLE" ,
+				"objectType":"" ,
+				"text":"Functions Country" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":""
+				}
+			} ,
+			{
+ 				"name":"CUSTOMER.RPGLE" ,
+				"objectType":"" ,
+				"text":"Function Customer" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":""
+				}
+			} ,
+			{
+ 				"name":"FAMILLY.RPGLE" ,
+				"objectType":"" ,
+				"text":"Functions article familly" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":""
+				}
+			} ,
+			{
+ 				"name":"LOG.RPGLE" ,
+				"objectType":"" ,
+				"text":"Log functions" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":""
+				}
+			} ,
+			{
+ 				"name":"PARAMETER.RPGLE" ,
+				"objectType":"" ,
+				"text":"Parameters functions - Prototypes" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":""
+				}
+			} ,
+			{
+ 				"name":"PROVIDER.RPGLE" ,
+				"objectType":"" ,
+				"text":"Functions Provider" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":""
+				}
+			} ,
+			{
+ 				"name":"VAT.RPGLE" ,
+				"objectType":"" ,
+				"text":"Functions VAT" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":""
+				}
+			}
+	]
+}

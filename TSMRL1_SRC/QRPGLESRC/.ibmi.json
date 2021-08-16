@@ -1,0 +1,349 @@
+{
+	"version":"0.0.1" ,
+	"build":{
+ 			"objlib":"*CURLIB" ,
+			"tgtCcsid":"*JOB"
+	} ,
+	"sourceAttributes":[
+ 			{
+ 				"name":"QRPGLESRC.FILE" ,
+				"objectType":"*FILE" ,
+				"text":"" ,
+				"ccsid":297 ,
+				"recordLength":112
+			} ,
+			{
+ 				"name":"ART200.SQLRPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"Work with article" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ART201.RPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"Work with article" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ART202.RPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"Work with article" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ART250.SQLRPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"Display Article" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ART300.RPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Function Article" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ART301.SQLRPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Function Select an article" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ART302.SQLRPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Function Article Extension" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"COU300.RPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Functions Country" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"COU301.RPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Select a Country code" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"CUS200.SQLRPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"Work with Customer" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"CUS250.RPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"Display customer" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"CUS300.RPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Function Customer" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"CUS301.SQLRPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Function Select a customer" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"DAT001.RPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"SQL UDF Dates" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"DAT002.RPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"SQL UDF Dates" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"FAM300.RPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Functions article familly" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"FAM301.RPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Select a Familly code" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"LOG100.RPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"Create Log UserSpace" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"LOG300.RPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Add entry to log" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORD100.RPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"Create new order" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORD101.RPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"Edit Customer Order" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORD200.SQLRPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"Work with Customer Orders" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORD201.SQLRPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"Work with Customer Orders" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORD202.RPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"Order detail" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORD500.RPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"Print customer order" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORD700.RPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ORD900.RPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"ORD901.SQLRPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PAR200.RPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"Work with parameters" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PAR300.RPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Parameters functions" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PRO200.RPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Work with Providers" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PRO202.SQLRPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Prepare purchase order" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PRO203.SQLRPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PRO250.RPGLE" ,
+				"objectType":"*PGM" ,
+				"text":"Display Article" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PRO300.RPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Functions Provider" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PRO301.SQLRPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Function Select a provider" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"VAT300.RPGLE" ,
+				"objectType":"*MODULE" ,
+				"text":"Functions VAT" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			}
+	]
+}

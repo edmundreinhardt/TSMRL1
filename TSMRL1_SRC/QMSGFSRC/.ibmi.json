@@ -1,0 +1,25 @@
+{
+	"version":"0.0.1" ,
+	"build":{
+ 			"objlib":"*CURLIB" ,
+			"tgtCcsid":"*JOB"
+	} ,
+	"sourceAttributes":[
+ 			{
+ 				"name":"QMSGFSRC.FILE" ,
+				"objectType":"*FILE" ,
+				"text":"" ,
+				"ccsid":37 ,
+				"recordLength":92
+			} ,
+			{
+ 				"name":"SAMMSGF.MSGF" ,
+				"objectType":"*MSGF" ,
+				"text":"" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			}
+	]
+}

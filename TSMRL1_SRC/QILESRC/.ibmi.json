@@ -1,0 +1,34 @@
+{
+	"version":"0.0.1" ,
+	"build":{
+ 			"objlib":"*CURLIB" ,
+			"tgtCcsid":"*JOB"
+	} ,
+	"sourceAttributes":[
+ 			{
+ 				"name":"QILESRC.FILE" ,
+				"objectType":"*FILE" ,
+				"text":"" ,
+				"ccsid":37 ,
+				"recordLength":92
+			} ,
+			{
+ 				"name":"PAR201.ILEPGM" ,
+				"objectType":"*PGM" ,
+				"text":"Work with generated output" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			} ,
+			{
+ 				"name":"PRO200.ILEPGM" ,
+				"objectType":"*PGM" ,
+				"text":"Work with Providers" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			}
+	]
+}

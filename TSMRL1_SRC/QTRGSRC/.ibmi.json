@@ -1,0 +1,43 @@
+{
+	"version":"0.0.1" ,
+	"build":{
+ 			"objlib":"*CURLIB" ,
+			"tgtCcsid":"*JOB"
+	} ,
+	"sourceAttributes":[
+ 			{
+ 				"name":"QTRGSRC.FILE" ,
+				"objectType":"*FILE" ,
+				"text":"Standard source file - non indexed" ,
+				"ccsid":297 ,
+				"recordLength":92
+			} ,
+			{
+ 				"name":"ORD700A.SYSTRG" ,
+				"objectType":"*SYSTRG" ,
+				"text":"" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ORD700D.SYSTRG" ,
+				"objectType":"*SYSTRG" ,
+				"text":"" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			} ,
+			{
+ 				"name":"ORD700U.SYSTRG" ,
+				"objectType":"*SYSTRG" ,
+				"text":"" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L02"
+				}
+			}
+	]
+}

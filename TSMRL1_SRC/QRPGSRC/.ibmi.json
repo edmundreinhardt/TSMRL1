@@ -1,0 +1,25 @@
+{
+	"version":"0.0.1" ,
+	"build":{
+ 			"objlib":"*CURLIB" ,
+			"tgtCcsid":"*JOB"
+	} ,
+	"sourceAttributes":[
+ 			{
+ 				"name":"QRPGSRC.FILE" ,
+				"objectType":"*FILE" ,
+				"text":"Standard source file - non indexed" ,
+				"ccsid":500 ,
+				"recordLength":92
+			} ,
+			{
+ 				"name":"COU200.RPG" ,
+				"objectType":"*PGM" ,
+				"text":"" ,
+				"arcad":{
+ 					"sourceLocalization":"*L03" ,
+					"objectLocalization":"*L01"
+				}
+			}
+	]
+}
