@@ -1,0 +1,6 @@
+      * METADATA                                                      *
+      * %TEXT TEXT(Provider file)                                     *
+
+                                            UNIQUE
+                R FPROV                     PFILE(PROVIDER)
+                K PRID

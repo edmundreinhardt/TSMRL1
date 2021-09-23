@@ -1,0 +1,7 @@
+      * METADATA                                                      *
+      * %TEXT TEXT(Article provider by price)                         *
+
+                R FARPR                     PFILE(ARTIPROV)
+                K APARID
+                K APPRICE
+                K APPRID

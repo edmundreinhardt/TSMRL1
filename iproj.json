@@ -1,0 +1,8 @@
+{
+	"description":"MRL1 Project",
+	"version":"0.0.1",
+	"includePath":[
+		"QPROTOSRC"
+	],
+	"repository":"https://github.com/fgrumeau/TSTMRL1"
+}

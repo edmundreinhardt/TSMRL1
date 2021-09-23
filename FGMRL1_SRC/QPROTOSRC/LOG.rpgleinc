@@ -1,0 +1,5 @@
+      * METADATA                                                      *
+      * %TEXT TEXT(Log functions)                                     *
+
+     d AddLogEntry     pr
+     d  entry                       500    value

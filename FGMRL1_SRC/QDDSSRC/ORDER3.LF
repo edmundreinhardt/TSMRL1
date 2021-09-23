@@ -1,0 +1,6 @@
+      * METADATA                                                      *
+      * %TEXT TEXT(Order File)                                        *
+
+                R FORDE                     PFILE(ORDER)
+                K ORDATE
+                K ORID

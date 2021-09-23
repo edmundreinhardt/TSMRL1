@@ -1,0 +1,7 @@
+      * METADATA                                                      *
+      * %TEXT TEXT(Detail Order File)                                 *
+
+                                            UNIQUE
+                R FDETO                     PFILE(DETORD)
+                K ODORID
+                K ODLINE

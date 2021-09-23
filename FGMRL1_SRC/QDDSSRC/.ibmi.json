@@ -1,0 +1,13 @@
+{
+	"version":"0.0.1",
+	"build":{
+		"objlib":"&L01",
+		"tgtCcsid":"*JOB",
+		"arcad":{
+			"name":"QDDSSRC",
+			"text":"",
+			"recordLength":92,
+			"ccsid":37
+		}
+	}
+}
