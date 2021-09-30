@@ -2,7 +2,6 @@
   "version": "0.0.1",
   "description": "MRL1 Project",
   "objlib": "&L01",
-  "curlib": "*CRTDFT",
   "includePath": ["QPROTOSRC"],
   "preUsrlibl": ["&L01"],
   "postUsrlibl": [],
