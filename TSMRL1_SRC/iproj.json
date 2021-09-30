@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "description": "MRL1 Project",
+  "objlib": "&L01",
+  "curlib": "&L01",
+  "includePath": ["QPROTOSRC"],
+  "preUsrlibl": ["&L01"],
+  "postUsrlibl": [],
+  "setIBMiEnvCmd": [],
+  "repository": "https://github.com/fgrumeau/TSMRL1.gi"
+}
