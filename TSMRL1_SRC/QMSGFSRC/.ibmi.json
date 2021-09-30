@@ -1,8 +1,6 @@
 {
 	"version":"0.0.1" ,
 	"build":{
- 			"objlib":"*CURLIB" ,
-			"tgtCcsid":"*JOB"
 	} ,
 	"sourceAttributes":[
  			{
