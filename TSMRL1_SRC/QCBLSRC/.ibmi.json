@@ -1,25 +1,15 @@
 {
 	"version":"0.0.1" ,
 	"build":{
- 			"objlib":"*CURLIB" ,
-			"tgtCcsid":"*JOB"
+			"tgtCcsid":"500"
 	} ,
-	"sourceAttributes":[
+	"arcad":[
  			{
  				"name":"QCBLSRC.FILE" ,
 				"objectType":"*FILE" ,
 				"text":"Standard source file - non indexed" ,
 				"ccsid":500 ,
 				"recordLength":92
-			} ,
-			{
- 				"name":"PRO201.CBL" ,
-				"objectType":"*PGM" ,
-				"text":"" ,
-				"arcad":{
- 					"sourceLocalization":"*L03" ,
-					"objectLocalization":"*L01"
-				}
-			}
+			} 
 	]
 }
